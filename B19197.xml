@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties royall protestations to all His loving subiects declaring his resolution for the maintenance of true religion, the lawes, and liberty of the subject, with the just priviledges of Parliament : and His Majesties oath taken at his coronation.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19197</idno><idno type="EEBO-CITATION">13078024</idno>
+  <idno type="VID">197890</idno>
+  <idno type="EEBO-PROQUEST">2248515911</idno>
+  
+            <idno type="STC">Wing C2767</idno>
+            <idno type="OCLC">13078024</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 265:E240, no 44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties royall protestations to all His loving subiects declaring his resolution for the maintenance of true religion, the lawes, and liberty of the subject, with the just priviledges of Parliament : and His Majesties oath taken at his coronation.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gay,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Extracts from the King's public pronouncements.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Privileges and immunities.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197890:1"/>
+            <p>HIS MAIESTIES ROYALL PROTESTATIONS To all His loving SUBIECTS: DECLARING His Resolution for the maintenance of true Religion, the Lawes, and Liberty of the Subject, with the just Priviledges of PARLIAMENT. <hi>AND His MAJESTIES Oath taken at His Coronation.</hi>
+            </p>
+            <q>
+               <bibl>PROV. 16.10.</bibl>
+               <p>A divine sentence is in the lips of the King, his mouth transgresseth not in judgment.</p>
+            </q>
+            <figure>
+               <head>C R</head>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <add>Octob: 22</add> LONDON. Printed for WILLIAM GAY. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_resolutions">
+            <pb facs="tcp:197890:2"/>
+            <pb n="1" facs="tcp:197890:2"/>
+            <head>The PREFACE to the READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have been, and am (unfortunately) at this houre a sad observer of these generall distractions which possesse this (once) flourishing Island; and am wrapt in admiration, that a Kingdome in it self so flourishing (though it hath beene sleepy) so divinely fortified to exclude forraigne invasion, should at last shrink under the burden of its own happinesse; much more wondering, that a truly pious King, and a religi<g ref="char:EOLhyphen"/>ous people should at one time actually disagree so much in what they both de<g ref="char:EOLhyphen"/>sire: I meane no ill, and feare none, therfore will boldly communicate to your generall view the Protestations I have seen from His Majesty, and my appro<g ref="char:EOLhyphen"/>bation of them;</p>
+            <div type="part">
+               <p n="1">1. In a Letter from His Majesty to both Houses of Parliament. <hi>Jan.</hi> 20. The conclusion you may read thus:
+<q>
+                     <p>If all these present distractions (which so apparently threaten the ruine of this Kingdom) do not (by the blessing of Almighty God) end in a happy and blessed accommoda<g ref="char:EOLhyphen"/>tion, His Majesty will then be ready to call heaven &amp; earth, God and man to witnesse, that it hath not failed on his part.</p>
+                  </q>
+               </p>
+               <p>I do believe him.</p>
+            </div>
+            <div type="part">
+               <p>In His Majesties speech to the Committee March 9. 1641. when they pre<g ref="char:EOLhyphen"/>sented the Declaration of both Houses of Parliament at <hi>Newmarket.</hi>
+                  <q>
+                     <p>I am confident that you expect not I should give you a speedy answer to this strange and unexpected Declaration, that (in the distraction of this Kingdome) you should think this way of addresse more convenient then that proposed by my Message the 20. of January last to both Houses. As concerning the grounds of your feares and jealousies, I will take time to answer particularly, and doubt not but I shal do it to the satisfaction of the whole world. God in his good time will discover the secrets and bottomes of all plots and treasons,
+<pb n="2" facs="tcp:197890:3"/>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> I shal stand right in the eys of my people.</p>
+                     <p>God so deale with me and mine, as all my thoughts and intentions are upright, for the maintenance of the true Pro<g ref="char:EOLhyphen"/>testant profession, and for the observation and preservation of the Lawes of this land: and I hope God will blesse and assist those Lawes for My preservation.</p>
+                  </q>
+               </p>
+               <p>A Christian on this vow might believe an Infidell.</p>
+            </div>
+            <div type="part">
+               <p>His Majesties Answer to a Petition presented to Him at <hi>York</hi> Aprill 18. 1642. by the Earle of <hi>Stamford, M, Chancellour</hi> of the <hi>Exchequer,</hi> and <hi>M. Hungerford.</hi>
+                  <q>
+                     <p>When We duly weigh the dishonour which will perpe<g ref="char:EOLhyphen"/>tually lie upon this Kingdome, if full and speedy reliefe be not dispatched, We could not, nor cannot think of a better way to discharge Our duty to almighty God, for the defence of the true Protestant Profession, or to manifest Our affecti<g ref="char:EOLhyphen"/>on to Our three Kingdomes, then by ingaging Our Person in this Expedition, as many of our royall Progenitors have done even in Forraigne parts, upon causes of lesse impor<g ref="char:EOLhyphen"/>tance and piety, with great honour to themselves, and ad<g ref="char:EOLhyphen"/>vantage to this Kingdome.</p>
+                     <p>For the danger of our Person, We conceive it necessary and worthy of a King, to adventure his life to preserve his Kingdome, neither can it be imagined, that We will sit still and suffer our Kingdome to be lost, and our good Protestant Subjects to be massacred, without exposing our Person to the utmost hazzard for their relief and preservation.</p>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <p>And in the conclusion of this Answer thus it followeth.
+<q>God, in his good time, We hope, will so informe the hearts of all our good subjects, that We shall recover from the mischief and danger of this distemper, on whose good pleasure We will wait with patience and humility.</q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:197890:3"/>
+               <p>Next in His Majesties answer to a book intituled, The Declaration or Remon<g ref="char:EOLhyphen"/>strance of the Lords and Commons of the 19. of May.
+<q>For the bringing up of the Army to London, as we have heretofore (by no other direction then the testimony of a good conscience) called God to witnesse we never had or knew of any such resolution; so upon the view of the Depositions now published with that Declaration, it is not evident to Us, there was ever such a designe, unlesse very loose discourse or argu<g ref="char:EOLhyphen"/>ment be instance enough of such a designe.</q>
+               </p>
+            </div>
+            <div type="part">
+               <p>In the same answer pag. 6.
+<q>
+                     <p>And if no better effects then losse of time, and hindrance of the publike affaires have been found by Our Answers and Re<g ref="char:EOLhyphen"/>plies, let all good men judge, by whose default, and whose want of duty such effects have been.</p>
+                     <p>And We call almighty God to witnesse all Our complaints and jealousies, which have never been causelesse, nor of Our Houses of Parliament, but of some few schismaticall, facti<g ref="char:EOLhyphen"/>ous and ambitious spirits: Our deniall of the MILITIA, Our absenting Our Selfe from London, have beene the effects of an upright and faithfull affection to Our English Subjects, that We may be able, through all the inconveniences We are compelled to wrastle with, at last to restore their Religion, Lawes and Liberties unto them.</p>
+                     <p>We desire Our actions may no longer prosper or have a bles<g ref="char:EOLhyphen"/>sing from God upon them and Us, then they shalbe directed to the glory of God in the maintenance of the true Protestant profession, to the preservation of the property and liberty of the subjects in the observation of the Lawes, and the maintenance of the Rights and Freedome of Parliament, in the allowance and protection of all their just priviledges.</p>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:197890:4"/>
+               <p>Then again, make a surveigh of His Majesties Declaration to the Ministers, Free-holders, Farmers and substantiall Copie-holders of the County of <hi>York,</hi> assembled by His Majesties speciall Summons at <hi>Heworth-Moore,</hi> on Friday the 3. of June, 1642.
+<q>
+                     <p>We would have you to be assured, that We never intended the least neglect unto you in any former Summons of the coun<g ref="char:EOLhyphen"/>ty, Our love, as well as our protection, extending to all Our Sub<g ref="char:EOLhyphen"/>jects; but as you are a great body, time and conveniency must be observed in your assembling.</p>
+                     <p>That you may know the generall reasons of Our being here, you must understand, that when We found it neither safe nor honourable to expose Our Person to the tumultuous and licen<g ref="char:EOLhyphen"/>tious proceedings of many (which to this day are unpunished) who did disorderly approach neer Our Court at White-Hall, We trusted this part of Our dominions chiefly to reside in, where, as most of the Gentry already have, so We assure Our Self, the rest of you will give Us cleer testimonie of your service and obedience, which We will never use otherwise then for the defence of Our orthodox Religion, professed and setled in Qu. ELIZABETHS time, and confirmed by the authoritie of the Statutes of this Realme, the defence of the Lawes and funda<g ref="char:EOLhyphen"/>mentall Constitutions of the Kingdome (as the justest measure and rule for Our Prerogative, your Liberties and Rights) and lastly, for the preservation of the peace of this Kingdome.</p>
+                     <p>As for our own zeal to the Protestant profession, we refer all the world to our daily exercise of, and our Declarations concer<g ref="char:EOLhyphen"/>ning it, and execution of the Lawes against the Papists, so like<g ref="char:EOLhyphen"/>wise we cannot but declare Our Self most heartily sorrie to find such Separatists and Schismaticks, who presume against Law, to foment new doctrines and disciplines, to the disturbance of Church and State. For the Law, it being the common inheri<g ref="char:EOLhyphen"/>tance of Our people, we shall never inforce any Prerogative of
+<pb n="5" facs="tcp:197890:4"/>Ours beyond it, but submit Our self to it, and give you and all Our subjects the fullest latitude of it both for the liberty of your persons, and the propriety of your estates, and for an inviolable confidence and assurance hereof, as we take God (the searcher of all hearts) to witnesse Our reall intention herein, so We shall no longer desire you to stand for the defence of Our Person, Honor and just Prerogatives, then we shall maintain the Lawes of the Land, the liberty of your persons, and propriety of your goods.</p>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <p>After this in His Majesties Answer to the Petition of the Lords and Commons presented to His Majesty at <hi>York</hi> June 17. 1642. concerning recusants.
+<q>For the resort of Papists to the Court, His Majesties great care for the prevention thereof, is notoriously knowne, that when he was informed two or three of his Guard were of that Religion, he gave speciall direction, with expressions of his dis<g ref="char:EOLhyphen"/>pleasure, that they should be immediately discharged and pro<g ref="char:EOLhyphen"/>vided, that no person should attend on him under that relation, but such as took the oath of Allegiance and Supremacie.</q>
+               </p>
+               <p>His Majesties Declaration and profession disavowing any preparations or inten<g ref="char:EOLhyphen"/>tions in Him to levie warre against His Houses of Parliament, June15.
+<q>
+                     <p>There having been many rumors spread, and informations given, which may have induced many to believe, that We in<g ref="char:EOLhyphen"/>tend to make war against Our Parliament,</p>
+                     <p>We professe before God, and declare to all the world, that We always have and do abhorre all such designes, and desire all Our Nobility and Councell, who are here upon the place, to declare whether they have not been witnesses of Our frequent and ear<g ref="char:EOLhyphen"/>nest declarations and professions to this purpose, whether they see any colour of preparations or counsails that might reasona<g ref="char:EOLhyphen"/>bly beget a beliefe of any such designe, and whether they be not fully perswaded, that we have no such intention, but that all Our endeavours (according to Our many professions) tend to the
+<pb n="6" facs="tcp:197890:5"/>firm and constant settlement of the true Protestant Religion the just Priviledges of Parliament, the Liberty of the Subject, peace and prosperity of this Kingdome.</p>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <p>The conclusion of His Majesties reply in a Message to the Answer and hamble Petition of both Houses of Parliament, Septemb. 11. 1642.
+<q>The God of heaven direct you, and in mercie divert those judgments which hang over this Nation, and so deale with Us and Our Posterity, as We desire the preservation and advance<g ref="char:EOLhyphen"/>ment of the true Protestant Religion, the Law, and the Liberty of the Subject, the just Rights of Parliament, and the peace of the Kingdome.</q>
+               </p>
+            </div>
+         </div>
+         <div type="royal_coronation_oath">
+            <p>Since a King at his first Coronation can confirm his Subjects no other way but by Oath for the maintenance of such Rights, this Royall King hath divers times so<g ref="char:EOLhyphen"/>lemnly protested, the art of man cannot produce a more divine assurance, but by the performance, which must be attended (as I think) by the faith of His good Subjects.</p>
+            <p>The KINGS Oath taken at His Coronation thus followeth.
+<q>WI<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a willing and devout heart I promise and grant my pardon, and that I will preserve to you, and the Churches committed to your charge, all Canonicall Priviledges, and due Law and Justice, and that I will be your Protector and Defender to my power, by the assistance of God, as every good King in his Kingdome by right ought to protect and defend the Bishops and Churches under their government,</q>
+            </p>
+            <p>If Our sacred Soveraigne the King have prevaricated from this, I am yet to be instructed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
